@@ -1,0 +1,3 @@
+build:
+	g++ CMD_Lab3_Mamotenko.cpp -o LAB3
+	
